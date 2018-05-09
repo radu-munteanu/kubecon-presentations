@@ -1,5 +1,5 @@
 # kubecon-presentations
-A Catalogue of KubeCon Presentations Seen Live
+A Catalogue of KubeCon Presentations Seen
 
 ## KubeCon 2018 Copenhagen (2-4 May)
 ### May 2
@@ -34,10 +34,6 @@ A Catalogue of KubeCon Presentations Seen Live
 ##### 11:55 - Continuous Delivery Meets Custom Kubernetes Controller: A Declarative Configuration Approach to CI/CD - Suneeta Mall & Simon Cochrane, Nearmap (Intermediate Skill Level)
 - Slides: https://schd.ws/hosted_files/kccnceu18/f2/Continuous%20Delivery%20Meets%20Custom%20Kubernetes%20Controller-%20A%20Declarative%20Configuration%20Approach%20to%20CICD.pdf
 - Video: https://www.youtube.com/watch?v=kBS_Wd41R8k
-
-##### 14:00 - (not seen live) A Brokerless REST Interface for gRPC Services - Roman Zimine, Turbonomic (Intermediate Skill Level)
-- Slides: https://schd.ws/hosted_files/kccnceu18/d8/Brokerless_REST_for_gRPC.pdf
-- Video: https://www.youtube.com/watch?v=eQvrr9U4I8o
 
 ##### 14:00 - CRI: The Second Boom of Container Runtimes - Harry Zhang & Xu Wang, HyperHQ (Intermediate Skill Level)
 - Slides: https://schd.ws/hosted_files/kccnceu18/60/cri-second-boom-of-container-runtimes-KC_CNC_EU_2018.pdf
